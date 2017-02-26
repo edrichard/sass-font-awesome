@@ -3,6 +3,9 @@ sass-font-awesome
 
 Sass-only package for the iconic [Font Awesome](http://fontawesome.io) project with additional features
 
+Currently using [Font Awesome](http://fontawesome.io) v4.7.0
+
+
 ## Additional features
 
 ### Silent classes
