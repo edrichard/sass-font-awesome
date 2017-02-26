@@ -1,2 +1,11 @@
-.sass-cache/
+.sass-cache
 *.css.map
+
+.coverage
+.DS_Store
+.installed.cfg
+_gh_pages/*
+
+node_modules
+*.log
+debug.log*
