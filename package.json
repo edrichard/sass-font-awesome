@@ -1,27 +1,21 @@
 {
-  "name": "sass-font-awesome",
-  "description": "Sass-only package for the iconic font and CSS framework",
-  "version": "4.7.0",
-  "style": "css/font-awesome.css",
-  "keywords": ["font", "awesome", "fontawesome", "icon", "font", "sass"],
-  "homepage": "http://fontawesome.io/",
-  "bugs": {
-    "url" : "http://github.com/FortAwesome/Font-Awesome/issues"
-  },
-  "author": {
-    "name": "Jiri Peterek",
-    "email": "peterek@profires.cz"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jPeterek/sass-font-awesome.git"
-  },
-  "contributors": [
-  ],
-  "license": "(OFL-1.1 AND MIT)",
-  "dependencies": {
-  },
-  "engines" : {
-    "node" : ">=0.10.3"
-  }
+    "name": "sass-font-awesome",
+    "description": "Sass-only package for the iconic font and CSS framework",
+    "version": "1.0.0",
+    "keywords": ["font", "awesome", "fontawesome", "icon", "font", "sass"],
+    "homepage": "http://fontawesome.io/",
+    "bugs": {
+        "url" : "https://github.com/jPeterek/sass-font-awesome/issues"
+    },
+    "author": {
+        "name": "Jiri Peterek",
+        "email": "peterek@profires.cz"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jPeterek/sass-font-awesome.git"
+    },
+    "contributors": [],
+    "license": "MIT",
+    "dependencies": {}
 }
