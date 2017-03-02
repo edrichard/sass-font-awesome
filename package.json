@@ -1,7 +1,7 @@
 {
     "name": "sass-font-awesome",
     "description": "Sass-only package for the iconic font and CSS framework",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "keywords": ["font", "awesome", "fontawesome", "icon", "font", "sass"],
     "homepage": "http://fontawesome.io/",
     "bugs": {
